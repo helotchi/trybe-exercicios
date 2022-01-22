@@ -1,0 +1,8 @@
+NPM -> Node package manager -> Gerenciador de pacote do Node
+
+Comandos:
+npm install nome-pacote ou npm i nome-pacote -> instala o pacote no projeto.
+npm install --save-dev nome-pacote -> instala o pacote somente para as dependências do dev, no arquivo package.json
+npx nome-pacote -> executa o código que está no pacote
+
+mui.com/pt/ -> site de componentes para React
